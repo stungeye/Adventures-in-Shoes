@@ -2,7 +2,7 @@ This code was written to accompany a [January 2011 talk about Shoes](http://stun
 
 ## Shoes
 
-Shoes is a cross-platform toolkit for writing graphical apps easily and artfully using Ruby.
+[Shoes](http://shoesrb.com) is a cross-platform toolkit for writing graphical apps easily and artfully using Ruby.
 
 Shoes includes:
 
