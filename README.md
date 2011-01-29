@@ -1,3 +1,5 @@
+## Adventures in Shoes
+
 This code was written to accompany a [January 2011 talk about Shoes](http://stungeye.com/shoes2011/) for [Winnipeg.rb](http://winnipegrb.org).
 
 ## Shoes
