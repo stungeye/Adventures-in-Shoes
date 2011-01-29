@@ -1,4 +1,4 @@
-This code was written to accompany a [January 2010 talk about Shoes for Winnipeg.rb](http://stungeye.com/shoes2011/).
+This code was written to accompany a [January 2011 talk about Shoes](http://stungeye.com/shoes2011/) for [http://winnipegrb.org](Winnipeg.rb).
 
 ## Shoes
 
