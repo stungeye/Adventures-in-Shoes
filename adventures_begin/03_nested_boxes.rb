@@ -8,7 +8,7 @@
           button 'Two'
           button 'Buckle Shoe'
         end
-        stack :width => -150 do
+        stack :width => 150 do
           button 'Three'
           button 'Four'
           button 'Knock Door'
